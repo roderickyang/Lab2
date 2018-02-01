@@ -9,7 +9,7 @@ import edu.illinois.cs.cs125.lib.mazemaker.Maze;
  */
 @SuppressWarnings("checkstyle:emptyblock")
 public class SolveMaze {
-    
+
     /**
      * Implement your maze solving algorithm in the main method below.
      *
